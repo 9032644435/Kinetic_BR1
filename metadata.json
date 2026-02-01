@@ -1,0 +1,7 @@
+{
+  "name": "Kinetic Hand Orb HUD",
+  "description": "A high-performance interactive 3D orb controlled by hand gestures using MediaPipe Hands and Three.js, featuring a Minority Report style HUD.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
